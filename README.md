@@ -32,7 +32,7 @@ Finance students, investment analysts, and researchers.
 - Risk (std) differs significantly across tickers
 - The reusable function supports quick analysis for any stock
 
-- ## How to Run
+## How to Run
 1. Install packages: wrds, pandas
 2. Run all cells in analysis.ipynb
 3. Use the function get_monthly_stock_data() for custom queries
